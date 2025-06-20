@@ -3,12 +3,12 @@
 Just a proof of concept to get familiar with agentic browser use.
 
 ## TODO:
-[_] Customisation of prompt
-[_] Customisation of chat log emission
-[_] Passing in args to override/instead of env variables
-[_] Review the Browser-Use docs and try out observability features
-[_] Review Browser-Use docs and try out using local LLM
-[_] Review Browser-Use docs for adding own tool - e.g. extracting html by xpath pattern 
+* Customisation of prompt
+* Customisation of chat log emission
+* Passing in args to override/instead of env variables
+* Review the Browser-Use docs and try out observability features
+* Review Browser-Use docs and try out using local LLM
+* Review Browser-Use docs for adding own tool - e.g. extracting html by xpath pattern 
 
 ## setup
 
